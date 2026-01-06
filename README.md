@@ -1,2 +1,2 @@
 # 50-Northwind-SQL-question
-This is a solved SQL queries
+This file is a solved SQL question in Northwind database.
